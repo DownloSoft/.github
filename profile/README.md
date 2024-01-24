@@ -1,4 +1,4 @@
-# DownloSoft: Downloader
+# DownloSoft(DownlSoft): Downloader
 
 Welcome to DownloSoft, a versatile open-source downloader application that supports various websites, including YouTube, Instagram, and more. This project empowers users to download multimedia content from different platforms for offline access.
 
